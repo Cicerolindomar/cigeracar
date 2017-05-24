@@ -5,7 +5,7 @@
         <title>Oficina | Cigeracar </title>
         <meta content="text/html; charset=ISO-8859-1" http-equiv="Content-Type"/>
    
-    <script
+    <script>
 src="http://maps.google.com/maps?file=api&amp;v=2&amp;sensor=true&amp;key=ABQIAAAAAaVFxs6kNq7gWY59qf5XMxSec6s_uUscdbTyPSy8oWl8zYzqFRRanjFebOU60thMmEQQDEPx3A3y5Q"
 type="text/javascript"></script>
         <script type="text/javascript">
